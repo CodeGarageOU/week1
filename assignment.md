@@ -109,8 +109,8 @@ particles in chamber 0, the second number is the number of particles in chamber 
 
 There are n villages in a line in an area. There are two kings A and B. A village can be either ruled
 by a king (either by A or B) or empty. An empty village is said to be controlled by the king A if it is
-surrounded by villages ruled by king A from the left and from the right. Find out number of villages that
-are ruled by King A and King B
+surrounded by villages ruled by king A from the left and from the right, same goes for king B. Find out
+number of villages that are ruled by King A and King B
 
 ### Input
 
@@ -173,8 +173,8 @@ Output exactly T lines, each line containing the required answer
 
 ### Constraints
 
-* 1 &le; T &le; 103
-* 1 &le; B &le; 104
+* 1 &le; T &le; 10<sup>3</sup>
+* 1 &le; B &le; 10<sup>4</sup>
 
 ### Example
 
