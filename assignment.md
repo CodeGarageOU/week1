@@ -173,7 +173,7 @@ Output exactly T lines, each line containing the required answer
 
 ### Constraints
 
-* 1 &le; T &le; 10<sup>3</sup>
+* 1 &le; T &le; 10<sup>4</sup>
 * 1 &le; B &le; 10<sup>4</sup>
 
 ### Example
