@@ -7,7 +7,7 @@ Anand has some distinct integer numbers a<sub>1</sub>, a<sub>2</sub> ... a<sub>n
 
 * 1 &le; i &le; n
 * 1 &le; j &le; n
-* a<sub>i</sub> &le; a<sub>j</sub>
+* a<sub>i</sub> &lt; a<sub>j</sub>
 
 ### Input
 
