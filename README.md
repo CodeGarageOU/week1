@@ -44,7 +44,7 @@ Problem | Difficulty
 
 ## Strength Attended - 23
 
-## Organizers
+## Speakers
 
 * Rashed Mohammed - 3rd Year - rashedm.be20@uceou.edu
 * Aghamarsh Varanasi - 3rd Year - aghamarshv.be20@uceou.edu
